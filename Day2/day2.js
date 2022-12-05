@@ -1,5 +1,5 @@
 const fs = require("fs");
-const data = fs.readFileSync("Day 2/day2.txt", { encoding: "utf-8" });
+const data = fs.readFileSync("Day2/day2.txt", { encoding: "utf-8" });
 
 let games = data.split("\n");
 let total = 0;
