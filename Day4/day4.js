@@ -40,6 +40,7 @@ splittedData.map(pairOfZones => {
   (min2 < max1) ||
   (min1 > max2)
   )
+  //test commit
 
   if(
     (min1 >= min2 && max1 <= max2) ||
