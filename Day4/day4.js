@@ -23,7 +23,6 @@ splittedData.map(pairOfZones => {
 })
 console.log('Part 1: ' + totalPart1)
 
-//test commit
 let totalPart2 = 0
 
 splittedData.map(pairOfZones => {
